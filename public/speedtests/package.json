@@ -1,0 +1,10 @@
+{
+  "name": "domjs",
+  "version": "0.1.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-watch": "latest"
+  }
+}

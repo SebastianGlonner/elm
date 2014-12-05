@@ -1,0 +1,3 @@
+[submodule "minjector"]
+	path = minjector
+	url = https://github.com/SebastianGlonner/minjector.git

@@ -1,0 +1,8 @@
+{
+  "name": "CodeBaseCollection",
+  "version": "0.0.1",
+  "dependencies": {
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-sass": "latest"
+  }
+}
